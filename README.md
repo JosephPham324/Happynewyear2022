@@ -1,6 +1,6 @@
 
 ## Welcome to GitHub Pages
-This page is published at https://github.com/JosephPham324/Happynewyear2022.
+This page is published at https://josephpham324.github.io/Happynewyear2022/.
 You can use the [editor on GitHub](https://github.com/JosephPham324/Happynewyear2022/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
